@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9fd669c-332e-4847-bd44-2eddd2090bc9" name="Default Changelist" comment="" />
+    <list default="true" id="d9fd669c-332e-4847-bd44-2eddd2090bc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckValidIdentifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week1_Extension_Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coursera-kotlin-for-java-dev/META-INF/coursera-kotlin-for-java-dev.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursera-kotlin-for-java-dev/META-INF/coursera-kotlin-for-java-dev.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coursera-kotlin-for-java-dev/PersonGreet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursera-kotlin-for-java-dev/PersonGreet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coursera-kotlin-for-java-dev/Week1_Kotlin_FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/coursera-kotlin-for-java-dev/Week1_Kotlin_FunctionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1_Kotlin_Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1_Kotlin_Functions.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +27,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZWaO6uxvIUQGjUPFjjVOVTPqgF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,8 +42,48 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.Week1_Kotlin_FunctionsKt">
+  <component name="RunManager" selected="Kotlin.SumExtensionFunctionKt">
+    <configuration name="CheckValidIdentifierKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="coursera-kotlin-for-java-dev" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CheckValidIdentifierKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="coursera-kotlin-for-java-dev" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SumExtensionFunctionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week1_Extension_FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="coursera-kotlin-for-java-dev" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Week1_Extension_FunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Week1_Kotlin_FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="coursera-kotlin-for-java-dev" />
       <option name="VM_PARAMETERS" />
@@ -58,6 +112,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SumExtensionFunctionKt" />
+        <item itemvalue="Kotlin.Week1_Extension_FunctionsKt" />
+        <item itemvalue="Kotlin.CheckValidIdentifierKt" />
         <item itemvalue="Kotlin.Week1_Kotlin_FunctionsKt" />
         <item itemvalue="Kotlin.Week1_Starting_KotlinKt" />
       </list>
@@ -81,26 +138,30 @@
       <screen x="0" y="0" width="3000" height="2000" />
     </state>
     <state x="595" y="257" width="1801" height="1457" key="#Plugins/0.0.3000.2000@0.0.3000.2000" timestamp="1584957448059" />
-    <state width="2791" height="505" key="GridCell.Tab.0.bottom" timestamp="1584974306041">
+    <state width="2791" height="505" key="GridCell.Tab.0.bottom" timestamp="1585015485220">
       <screen x="0" y="0" width="3000" height="2000" />
     </state>
-    <state width="2791" height="505" key="GridCell.Tab.0.bottom/0.0.3000.2000@0.0.3000.2000" timestamp="1584974306041" />
-    <state width="2791" height="505" key="GridCell.Tab.0.center" timestamp="1584974306033">
+    <state width="2791" height="505" key="GridCell.Tab.0.bottom/0.0.3000.2000@0.0.3000.2000" timestamp="1585015485220" />
+    <state width="2791" height="505" key="GridCell.Tab.0.center" timestamp="1585015485213">
       <screen x="0" y="0" width="3000" height="2000" />
     </state>
-    <state width="2791" height="505" key="GridCell.Tab.0.center/0.0.3000.2000@0.0.3000.2000" timestamp="1584974306033" />
-    <state width="2791" height="505" key="GridCell.Tab.0.left" timestamp="1584974306033">
+    <state width="2791" height="505" key="GridCell.Tab.0.center/0.0.3000.2000@0.0.3000.2000" timestamp="1585015485213" />
+    <state width="2791" height="505" key="GridCell.Tab.0.left" timestamp="1585015485207">
       <screen x="0" y="0" width="3000" height="2000" />
     </state>
-    <state width="2791" height="505" key="GridCell.Tab.0.left/0.0.3000.2000@0.0.3000.2000" timestamp="1584974306033" />
-    <state width="2791" height="505" key="GridCell.Tab.0.right" timestamp="1584974306036">
+    <state width="2791" height="505" key="GridCell.Tab.0.left/0.0.3000.2000@0.0.3000.2000" timestamp="1585015485207" />
+    <state width="2791" height="505" key="GridCell.Tab.0.right" timestamp="1585015485217">
       <screen x="0" y="0" width="3000" height="2000" />
     </state>
-    <state width="2791" height="505" key="GridCell.Tab.0.right/0.0.3000.2000@0.0.3000.2000" timestamp="1584974306036" />
-    <state x="752" y="635" width="1488" height="700" key="com.intellij.ide.util.TipDialog" timestamp="1584958609199">
+    <state width="2791" height="505" key="GridCell.Tab.0.right/0.0.3000.2000@0.0.3000.2000" timestamp="1585015485217" />
+    <state x="752" y="635" width="1479" height="671" key="com.intellij.ide.util.TipDialog" timestamp="1585013627226">
       <screen x="0" y="0" width="3000" height="2000" />
     </state>
-    <state x="752" y="635" width="1488" height="700" key="com.intellij.ide.util.TipDialog/0.0.3000.2000@0.0.3000.2000" timestamp="1584958609199" />
+    <state x="752" y="635" width="1479" height="671" key="com.intellij.ide.util.TipDialog/0.0.3000.2000@0.0.3000.2000" timestamp="1585013627226" />
+    <state x="741" y="274" width="1493" height="1364" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585015319282">
+      <screen x="0" y="0" width="3000" height="2000" />
+    </state>
+    <state x="741" y="274" width="1493" height="1364" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.3000.2000@0.0.3000.2000" timestamp="1585015319282" />
     <state x="687" y="-2" width="1698" height="3212" key="search.everywhere.popup" timestamp="1584958620793">
       <screen x="0" y="0" width="3000" height="2000" />
     </state>

@@ -77,4 +77,10 @@ fun main(args: Array<String>) {
     for (i in 9 downTo 0 step 2) {print(i)}
     println()
     for (ch in "hello world") print(ch+1) // iterating over string and incrementing each char
+
+
+    // comparing strings
+    println("\n\n")
+    println("ball" in "a".."k") // true
+    println("soccer" in "a".."k") // false
 }
